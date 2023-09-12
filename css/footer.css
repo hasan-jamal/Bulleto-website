@@ -1,0 +1,61 @@
+footer{
+  background: #070D31;
+  backdrop-filter: blur(70px);
+}
+footer .container-footer{
+  width: 1300px;
+  margin: auto;
+  padding: 38px 0px;
+  display: flex;
+  align-items: end;
+  gap: 205px;
+} 
+footer .container-footer .first-footer .logo-footer{
+  width: 132px;
+  height: 95px;
+  margin-bottom: 7px;
+}
+footer .container-footer .first-footer p{
+  color :#FFF;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 20px;
+}
+footer .container-footer .first-footer .imgs-footer{gap: 16px;margin-bottom: 50px;}
+footer .container-footer .first-footer .imgs-footer img{
+  width: 50px;
+height: 50px;
+}
+footer .container-footer .first-footer span{
+  color: #FFF;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
+footer .container-footer .second-footer{
+  display: flex;
+  align-items: start;
+  gap: 120px;
+}
+footer .container-footer .second-footer h6{
+  color: #C3EEFF;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 22px;
+}
+footer .container-footer .second-footer .links-footer{width: max-content;}
+footer .container-footer .second-footer .list-links{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+footer .container-footer .second-footer a{
+  color: #FFF;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  font-weight: 500;
+}

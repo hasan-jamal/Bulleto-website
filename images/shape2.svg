@@ -1,0 +1,38 @@
+<svg width="128" height="146" viewBox="0 0 128 146" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="127" height="145" rx="9.5" fill="#070D30" stroke="url(#paint0_linear_561_1728)"/>
+<path d="M61 30C61 31.7455 58.3032 35.8036 51.7742 36.3273C45.2452 36.8509 41.0108 40.1091 39 42" stroke="#A4C3CA" stroke-dasharray="3 3"/>
+<path d="M66 30C66 31.7455 68.8194 35.8036 75.6452 36.3273C82.471 36.8509 86.8978 40.1091 89 42" stroke="#A4C3CA" stroke-dasharray="3 3"/>
+<path d="M94 62C94 64.4727 95.471 70.2218 99.0323 70.9636C102.594 71.7055 104.903 76.3212 106 79" stroke="#A4C3CA" stroke-dasharray="3 3"/>
+<path d="M109 93C109 94.6 109.613 98.32 111.097 98.8C112.581 99.28 113.543 102.267 114 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M51 93C51 94.6 51.6129 98.32 53.0968 98.8C54.5806 99.28 55.543 102.267 56 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M107 93C107 94.6 106.387 98.32 104.903 98.8C103.419 99.28 102.457 102.267 102 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M49 93C49 94.6 48.3871 98.32 46.9032 98.8C45.4194 99.28 44.457 102.267 44 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M78 93C78 94.6 78.6129 98.32 80.0968 98.8C81.5806 99.28 82.543 102.267 83 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M20 93C20 94.6 20.6129 98.32 22.0968 98.8C23.5806 99.28 24.543 102.267 25 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M76 93C76 94.6 75.3871 98.32 73.9032 98.8C72.4194 99.28 71.457 102.267 71 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M18 93C18 94.6 17.3871 98.32 15.9032 98.8C14.4194 99.28 13.457 102.267 13 104" stroke="#A4C3CA" stroke-dasharray="2 2"/>
+<path d="M36 62C36 64.4727 37.471 70.2218 41.0323 70.9636C44.5935 71.7055 46.9032 76.3212 48 79" stroke="#A4C3CA" stroke-dasharray="3 3"/>
+<path d="M91 62C91 64.4727 89.529 70.2218 85.9677 70.9636C82.4065 71.7055 80.0968 76.3212 79 79" stroke="#A4C3CA" stroke-dasharray="3 3"/>
+<path d="M33 62C33 64.4727 31.529 70.2218 27.9677 70.9636C24.4065 71.7055 22.0968 76.3212 21 79" stroke="#A4C3CA" stroke-dasharray="3 3"/>
+<circle cx="35" cy="52" r="9.5" fill="#20ABAD" stroke="#20ABAD"/>
+<circle cx="115" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="57" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="102" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="44" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="92" cy="52" r="9.5" stroke="#20ABAD"/>
+<circle cx="108" cy="86" r="6.5" stroke="#20ABAD"/>
+<circle cx="84" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="26" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="71" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="13" cy="109" r="4.5" stroke="#20ABAD"/>
+<circle cx="50" cy="86" r="6.5" stroke="#20ABAD"/>
+<circle cx="77" cy="86" r="7" fill="#0D5A85"/>
+<circle cx="19" cy="86" r="7" fill="#0D5A85"/>
+<defs>
+<linearGradient id="paint0_linear_561_1728" x1="-8" y1="-7.98437" x2="154.002" y2="136.031" gradientUnits="userSpaceOnUse">
+<stop stop-color="#20ABAD"/>
+<stop offset="0.50482" stop-color="#20ABAD" stop-opacity="0"/>
+<stop offset="0.977967" stop-color="#20ABAD"/>
+</linearGradient>
+</defs>
+</svg>
